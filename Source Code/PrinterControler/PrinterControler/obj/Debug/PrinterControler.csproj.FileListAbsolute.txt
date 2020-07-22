@@ -1,0 +1,9 @@
+D:\VisualStudio 2017 Projects\PrinterControler\PrinterControler\bin\Debug\PrinterControler.exe.config
+D:\VisualStudio 2017 Projects\PrinterControler\PrinterControler\bin\Debug\PrinterControler.exe
+D:\VisualStudio 2017 Projects\PrinterControler\PrinterControler\bin\Debug\PrinterControler.pdb
+D:\VisualStudio 2017 Projects\PrinterControler\PrinterControler\obj\Debug\PrinterControler.csprojResolveAssemblyReference.cache
+D:\VisualStudio 2017 Projects\PrinterControler\PrinterControler\obj\Debug\PrinterControler.Form1.resources
+D:\VisualStudio 2017 Projects\PrinterControler\PrinterControler\obj\Debug\PrinterControler.Properties.Resources.resources
+D:\VisualStudio 2017 Projects\PrinterControler\PrinterControler\obj\Debug\PrinterControler.csproj.GenerateResource.Cache
+D:\VisualStudio 2017 Projects\PrinterControler\PrinterControler\obj\Debug\PrinterControler.exe
+D:\VisualStudio 2017 Projects\PrinterControler\PrinterControler\obj\Debug\PrinterControler.pdb
